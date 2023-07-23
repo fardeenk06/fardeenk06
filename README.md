@@ -1,8 +1,6 @@
-- 👋 Hi, I’m
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m fardeen khan
+- 👀 I’m interested in front-end development
+- 📫 reach me @fardeenk_06 on gram
 
 <!---
 fardeenk06/fardeenk06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
